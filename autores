@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> DESARROLLO  SITIOS WEB|</title>
+		<meta charset="utf.8">
+		<meta name="viewport" content="width=device-width">
+		<meta name="description" content="Diseño de Sitios Web">
+		<meta name="keywords" content="Diseño Web,desarrollo,analisis">
+		<meta name="author" content="Silvio Villegas ">
+		<link rel="stylesheet" type="text/css" href="css/estilos.css">
+	</head>
+	<body>
+		<header>
+			<div class="contiene">
+
+			<div id="marca">
+				<h1><span class="resaltar">DESARROLLO DE SITIOS WEB</span></h1>
+			</div>
+			<nav>
+				<ul>
+					<li class="presente<a href="index.html">Inicio</a></li>
+					<li <a href="Lecturas.html"></a>Lecturas</li>
+					<li <a href="Multimedia.html">Multimedia</a></li>
+					<li <a href="Actividades.html"></a>Actividades</li>
+					<li <a href="Autores.html"></a>Autores</li>
+				</ul>
+				</ul>
+			</nav>
+			</div>
+		</header>
+		<section id="cabecera">
+			<div class="contiene">
+				<h1>Desarrolladores en sitios web</h1>
+				<p>Somos estudiantes de Ingeneria de Sistemas y actualmente nos encontramos cursando el nucleo tematico de Diseno de sitios web en la Unad</p>
+			</div>
+			<div>
+	            <h2 align="center">Autores</h2>
+            </div>
+            <div>
+            	<img src="img/silvio.png">
+            	<p>SILVIO VILLEGAS</p>
+	            <p>Cel. 3133576875</p>
+				<p>Correo electronico: svillegasme@unadvirtual.edu.co</p>
+            </div>
+            <div>
+            	<img src="img/cindy.png">
+            	<p>CINDY DURAN</p>
+	            <p>Cel. 3134704800</p>
+				<p>Correo electronico: cmdo18f@gmail.com</p>
+            </div>
+             <div>
+             	<img src="img/hector.png">
+            	<p>HECTOR CAMILO GONZALEZ </p>
+	            <p>Cel. no registra</p>
+				<p>Correo electronico: no registra</p>
+            </div>
+		</section>
+		<section id="logos">
+			<div class="contiene">
+				<div class="logo">
+					<img src="img/logo.png">
+
+				</div>
+
+			</div>
+		</section>
+
+		<foster>
+			<p>Desarrollo de sitios web, copyrigth &copy;2018</p>
+		</foster>
+	</body>
+</html>
